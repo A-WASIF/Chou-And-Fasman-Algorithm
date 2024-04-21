@@ -26,3 +26,8 @@ Symbols used in prediction:
 1. Alpha Helix : H
 2. Beta Sheet : S
 3. Conflicting region : C
+
+
+
+## Author
+Wasif Ali
