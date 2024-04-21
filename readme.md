@@ -30,4 +30,4 @@ Symbols used in prediction:
 
 
 ## Author
-Wasif Ali
+Wasif
